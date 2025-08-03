@@ -55,8 +55,8 @@ My goal is to build **innovative solutions** and contribute to **impactful proje
 
 ---
 
-![Snake animation](https://github.com/umeshyenugula/umeshyenugula/blob/output/github-contribution-grid-snake.svg)
-
+## 🐍 Contribution Snake
+![snake gif](https://github.com/umeshyenugula/umeshyenugula/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## 👁️ Visitor Count
