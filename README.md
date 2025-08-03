@@ -10,15 +10,15 @@
 
 ---
 
-# ðŸ‘‹ Hi, I'm Umesh Chandran Yenugula!
+# 👋 Hi, I'm Umesh Chandran Yenugula!
 
-## ðŸš€ About Me
+## 🚀 About Me
 I'm passionate about exploring the world of **Machine Learning** and continuously expanding my knowledge in **Python**.  
 My goal is to build **innovative solutions** and contribute to **impactful projects**.
 
 ---
 
-## ðŸ› ï¸ Skills
+## 🛠️ Skills
 
 - **Programming Languages**: Python, R  
 - **Backend Development**: Flask  
@@ -28,7 +28,7 @@ My goal is to build **innovative solutions** and contribute to **impactful proje
 
 ---
 
-## ðŸ“š Interests
+## 📚 Interests
 
 - Machine Learning and AI  
 - Backend Development with Flask  
@@ -37,42 +37,42 @@ My goal is to build **innovative solutions** and contribute to **impactful proje
 
 ---
 
-## ðŸ“Š GitHub Stats
+## 📊 GitHub Stats
 
 ![Umesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=umeshyenugula&show_icons=true&theme=radical)
 
 ---
 
-## ðŸ”¥ GitHub Streak
+## 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=umeshyenugula&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
-## ðŸ–¼ï¸ Contribution Graph
+## 🖼️ Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=umeshyenugula&theme=github-compact)
 
 ---
 
-## ðŸ Snake Eating Contributions
+## 🐍 Snake Animation
 
 ![Snake animation](https://github.com/umeshyenugula/umeshyenugula/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## ðŸ‘ï¸ Visitor Count
+## 👁️ Visitor Count
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=umeshyenugula&color=brightgreen)
 
 ---
 
-## ðŸ’¡ Let's Connect!
+## 💡 Let's Connect!
 
-- ðŸ”— **GitHub**: [umeshyenugula](https://github.com/umeshyenugula)  
-- ðŸ”— **LinkedIn**: [Umesh Chandran Yenugula](https://www.linkedin.com/in/umesh-chandran-yenugula-0a2576317)
+- 🔗 **GitHub**: [umeshyenugula](https://github.com/umeshyenugula)  
+- 🔗 **LinkedIn**: [Umesh Chandran Yenugula](https://www.linkedin.com/in/umesh-chandran-yenugula-0a2576317)
 
 <!---
-umeshyenugula/umeshyenugula is a âœ¨ special âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
+umeshyenugula/umeshyenugula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
