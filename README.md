@@ -1,3 +1,13 @@
+<div align="center" style="background-color:#000; color:#fff; padding:40px 20px; border-radius:12px;">
+
+  <h1 style="font-size:3rem;">👋 Hello World!</h1>
+  <h2 style="margin-top:10px; font-weight:400;">AI/ML Enthusiast • Open Source Contributor • GSSoC Mentor</h2>
+
+  <br/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF4F00&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!;" alt="Typing SVG" />
+
+</div>
 Hi, I'm Umesh Chandran Yenugula!👋
 🚀 About Me
 I'm passionate about exploring the world of Machine Learning and continuously expanding my knowledge in Python. My goal is to build innovative solutions and contribute to impactful projects.
