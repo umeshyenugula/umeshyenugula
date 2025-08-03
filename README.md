@@ -5,7 +5,7 @@
     ML Developer | GSSoC Mentor | Backend Developer
   </h2>
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=3000&pause=500&color=%23888888&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile!;Exploring+ML+and+Backend+Tech;Passionate+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=%23888888&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile!;Exploring+ML+and+Backend+Tech;Passionate+Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 ---
