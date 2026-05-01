@@ -2,7 +2,7 @@
 <div align="center" style="background-color:#000; color:#fff; padding:40px 20px; border-radius:12px;">
   <h1 style="font-size:3rem;">Hello!</h1>
   <h2 style="margin-top:10px; font-weight:400;">
-    ML Developer | GSSoC Mentor | Backend Developer
+    ML Developer  Backend Developer
   </h2>
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=%23888888&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile!;Exploring+ML+and+Backend+Tech;Passionate+Open+Source+Contributor" alt="Typing SVG" />
@@ -67,7 +67,6 @@ My goal is to build **innovative solutions** and contribute to **impactful proje
 
 ##  Let's Connect!
 
-- 🔗 **GitHub**: [umeshyenugula](https://github.com/umeshyenugula)  
 - 🔗 **LinkedIn**: [Umesh Chandran Yenugula](https://www.linkedin.com/in/umesh-chandran-yenugula-0a2576317)
 
 <!---
