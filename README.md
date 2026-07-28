@@ -4,13 +4,10 @@
 
 ### Software Engineer • Machine Learning Engineer • Backend Developer
 
-Building scalable backend systems, AI-powered applications, and production-ready software.
+Building scalable backend systems, intelligent applications, and production-ready software.
 
-<p>
-<a href="https://www.linkedin.com/in/umesh-chandran-yenugula-0a2576317">LinkedIn</a> •
-<a href="https://github.com/umeshyenugula">GitHub</a> •
-<a href="mailto:umeshyenugula2007@gmail.com">Email</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umesh-chandran-yenugula-0a2576317)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/umeshyenugula)
 
 </div>
 
@@ -18,18 +15,16 @@ Building scalable backend systems, AI-powered applications, and production-ready
 
 # About Me
 
-I'm a Computer Science undergraduate passionate about building intelligent software that solves real-world problems.
+I'm a Computer Science undergraduate passionate about designing scalable software and solving real-world engineering problems.
 
 My interests include:
 
-- Machine Learning & Deep Learning
+- Machine Learning & Artificial Intelligence
 - Backend Engineering
 - Distributed Systems
-- High Performance APIs
 - System Design
+- High Performance APIs
 - Open Source Development
-
-I enjoy transforming ideas into scalable products while continuously exploring modern technologies.
 
 ---
 
@@ -53,7 +48,7 @@ I enjoy transforming ideas into scalable products while continuously exploring m
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
 
-### Database
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,redis" />
@@ -77,31 +72,25 @@ I enjoy transforming ideas into scalable products while continuously exploring m
 
 ## GraphGST
 
-Knowledge Graph powered GST reconciliation platform.
+Knowledge Graph-powered GST reconciliation platform using Neo4j and Machine Learning.
 
-**Tech**
-
-Python • Neo4j • Flask • NetworkX • Isolation Forest
+**Tech:** Python • Neo4j • Flask • NetworkX • Isolation Forest
 
 ---
 
 ## MailMind
 
-AI-powered email classifier with intelligent calendar event extraction.
+AI-powered email classification and intelligent calendar event extraction.
 
-**Tech**
-
-Python • Flask • Google APIs • NLP
+**Tech:** Python • Flask • NLP • Google APIs
 
 ---
 
 ## LithoLens
 
-Deep Learning based Kidney Stone Detection system.
+Deep Learning-based kidney stone detection using Computer Vision.
 
-**Tech**
-
-PyTorch • OpenCV • Computer Vision
+**Tech:** PyTorch • OpenCV
 
 ---
 
@@ -109,29 +98,23 @@ PyTorch • OpenCV • Computer Vision
 
 Blockchain infrastructure for renewable energy trading.
 
-**Tech**
-
-Blockchain • Flask • Python
+**Tech:** Blockchain • Python • Flask
 
 ---
 
 ## LazyRecruit
 
-Progressive Web Application simplifying campus recruitment workflows.
+Progressive Web Application for campus recruitment management.
 
-**Tech**
-
-PWA • JavaScript • Flask
+**Tech:** JavaScript • Flask • PWA
 
 ---
 
 ## Flasio
 
-A lightweight ASGI web framework focused on simplicity and performance.
+Lightweight ASGI framework focused on simplicity and performance.
 
-**Tech**
-
-Python • ASGI
+**Tech:** Python • ASGI
 
 ---
 
@@ -148,76 +131,67 @@ Python • ASGI
 
 # Competitive Programming
 
-- 350+ DSA Problems Solved
-- Strong foundation in Algorithms
+- 350+ Data Structures & Algorithms problems solved
+- Strong foundation in Algorithms and Data Structures
 - Dynamic Programming
 - Graph Algorithms
 - Trees
-- Greedy
+- Greedy Algorithms
 - System Design
 
 ---
 
 # Currently Exploring
 
-- Large Language Models
+- Large Language Models (LLMs)
 - AI Agents
 - MLOps
 - Kubernetes
 - Distributed Systems
-- Event Driven Architecture
-- High Performance Computing
+- Event-Driven Architecture
 
 ---
 
 # GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=umeshyenugula&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umeshyenugula&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=umeshyenugula&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=umeshyenugula&theme=github-dark&hide_border=true" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umeshyenugula&layout=compact&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=umeshyenugula&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=umeshyenugula&theme=github-compact&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umeshyenugula&theme=github-dark&hide_border=true" />
+</p>
 
 ---
 
 # Achievements
 
 - Computer Science Engineering Undergraduate
-- Open Source Contributor
 - Machine Learning Developer
 - Backend Developer
-- Active GitHub Contributor
+- Open Source Contributor
+- Active Competitive Programmer
 
 ---
 
-# Philosophy
+# Connect
 
-> **"Write simple code. Build scalable systems. Never stop learning."**
+<div align="center">
+
+[LinkedIn](https://www.linkedin.com/in/umesh-chandran-yenugula-0a2576317) •
+[GitHub](https://github.com/umeshyenugula)
+
+</div>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting!
-
-If you find my work interesting, feel free to explore my repositories or connect with me.
+> *"Write clean code. Build scalable systems. Keep learning."*
 
 </div>
