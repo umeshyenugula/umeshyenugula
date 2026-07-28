@@ -1,75 +1,223 @@
-<!-- Centered Welcome Section with Typing Animation -->
-<div align="center" style="background-color:#000; color:#fff; padding:40px 20px; border-radius:12px;">
-  <h1 style="font-size:3rem;">Hello!</h1>
-  <h2 style="margin-top:10px; font-weight:400;">
-    ML Developer  Backend Developer
-  </h2>
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=%23888888&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile!;Exploring+ML+and+Backend+Tech;Passionate+Open+Source+Contributor" alt="Typing SVG" />
+<div align="center">
+
+# Umesh Chandran Yenugula
+
+### Software Engineer • Machine Learning Engineer • Backend Developer
+
+Building scalable backend systems, AI-powered applications, and production-ready software.
+
+<p>
+<a href="https://www.linkedin.com/in/umesh-chandran-yenugula-0a2576317">LinkedIn</a> •
+<a href="https://github.com/umeshyenugula">GitHub</a> •
+<a href="mailto:umeshyenugula2007@gmail.com">Email</a>
+</p>
+
 </div>
 
 ---
 
-# 👋 Hi, I'm Umesh Chandran Yenugula!
+# About Me
 
-## About Me
-I'm passionate about exploring the world of **Machine Learning** and continuously expanding my knowledge in **Python**.  
-My goal is to build **innovative solutions** and contribute to **impactful projects**.
+I'm a Computer Science undergraduate passionate about building intelligent software that solves real-world problems.
 
----
+My interests include:
 
-## Skills
+- Machine Learning & Deep Learning
+- Backend Engineering
+- Distributed Systems
+- High Performance APIs
+- System Design
+- Open Source Development
 
-- **Programming Languages**: Python, R  
-- **Backend Development**: Flask  
-- **Machine Learning**: Supervised & Unsupervised Learning, Model Evaluation  
-- **Data Structures & Algorithms**: Efficient Problem Solving in Python  
-- **Version Control**: Git, GitHub
-
----
-
-## Interests
-
-- Machine Learning and AI  
-- Backend Development with Flask  
-- Data Analysis and Visualization  
-- Open-Source Contributions
+I enjoy transforming ideas into scalable products while continuously exploring modern technologies.
 
 ---
 
-## GitHub Stats
+# Tech Stack
 
-![Umesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=umeshyenugula&show_icons=true&theme=radical)
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,go,cpp,c,js,ts,java,r" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
+</p>
+
+### Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,redis" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,bash" />
+</p>
 
 ---
 
-## 🔥 GitHub Streak
+# Featured Projects
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=umeshyenugula&theme=tokyonight)](https://git.io/streak-stats)
+## GraphGST
 
----
+Knowledge Graph powered GST reconciliation platform.
 
-##  Contribution Graph
+**Tech**
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=umeshyenugula&theme=github-compact)
-
----
-
-## Contribution
-![snake gif](https://github.com/umeshyenugula/umeshyenugula/blob/output/github-contribution-grid-snake.svg)
----
-
-## Visitor Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=umeshyenugula&color=brightgreen)
+Python • Neo4j • Flask • NetworkX • Isolation Forest
 
 ---
 
-##  Let's Connect!
+## MailMind
 
-- 🔗 **LinkedIn**: [Umesh Chandran Yenugula](https://www.linkedin.com/in/umesh-chandran-yenugula-0a2576317)
+AI-powered email classifier with intelligent calendar event extraction.
 
-<!---
-umeshyenugula/umeshyenugula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Tech**
+
+Python • Flask • Google APIs • NLP
+
+---
+
+## LithoLens
+
+Deep Learning based Kidney Stone Detection system.
+
+**Tech**
+
+PyTorch • OpenCV • Computer Vision
+
+---
+
+## ChainGrid
+
+Blockchain infrastructure for renewable energy trading.
+
+**Tech**
+
+Blockchain • Flask • Python
+
+---
+
+## LazyRecruit
+
+Progressive Web Application simplifying campus recruitment workflows.
+
+**Tech**
+
+PWA • JavaScript • Flask
+
+---
+
+## Flasio
+
+A lightweight ASGI web framework focused on simplicity and performance.
+
+**Tech**
+
+Python • ASGI
+
+---
+
+# Experience
+
+- Backend API Development
+- Machine Learning Pipelines
+- REST API Design
+- Database Optimization
+- Authentication Systems
+- Dockerized Applications
+
+---
+
+# Competitive Programming
+
+- 350+ DSA Problems Solved
+- Strong foundation in Algorithms
+- Dynamic Programming
+- Graph Algorithms
+- Trees
+- Greedy
+- System Design
+
+---
+
+# Currently Exploring
+
+- Large Language Models
+- AI Agents
+- MLOps
+- Kubernetes
+- Distributed Systems
+- Event Driven Architecture
+- High Performance Computing
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=umeshyenugula&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umeshyenugula&layout=compact&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=umeshyenugula&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=umeshyenugula&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+# Achievements
+
+- Computer Science Engineering Undergraduate
+- Open Source Contributor
+- Machine Learning Developer
+- Backend Developer
+- Active GitHub Contributor
+
+---
+
+# Philosophy
+
+> **"Write simple code. Build scalable systems. Never stop learning."**
+
+---
+
+<div align="center">
+
+### Thanks for visiting!
+
+If you find my work interesting, feel free to explore my repositories or connect with me.
+
+</div>
